@@ -16,9 +16,9 @@ The Gate Survey App is a powerful tool designed to streamline the collection and
 - **Secure Data Storage**: Ensures that all collected data is stored securely and is accessible only by authorized users.
 
  ## Usage
-a)Create a Survey: Log in to the application and navigate to the survey creation page to design your survey using various question types (multiple choice, text input, etc.).
-b)Distribute the Survey: Share the generated survey link or QR code with respondents through email, social media, or printed materials.
-c)Collect Responses: Monitor real-time responses as they are submitted, allowing for immediate insights.
-d)Analyze Data: Access the analytics dashboard to view visualizations and reports based on the collected survey data.
+- Create a Survey: Log in to the application and navigate to the survey creation page to design your survey using various question types (multiple choice, text input, etc.).
+- Distribute the Survey: Share the generated survey link or QR code with respondents through email, social media, or printed materials.
+- Collect Responses: Monitor real-time responses as they are submitted, allowing for immediate insights.
+- Analyze Data: Access the analytics dashboard to view visualizations and reports based on the collected survey data.
 
 
