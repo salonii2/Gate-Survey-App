@@ -1,0 +1,12 @@
+{
+    "best_params": {
+        "classifier__bootstrap": true,
+        "classifier__max_depth": 10,
+        "classifier__min_samples_leaf": 1,
+        "classifier__min_samples_split": 5,
+        "classifier__n_estimators": 100
+    },
+    "best_score": 0.267,
+    "training_score": 0.89725,
+    "test_score": 0.2635
+}
