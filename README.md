@@ -1,5 +1,7 @@
-## 🚪 Gate Survey App
-🔗 Click here to view the demo
+## 🚪 Gate Survey App 
+🔗 **[Click here to view the demo](https://drive.google.com/file/d/1gTCsxXLmi8uryKrpfJ8pd1iGsZxFVYul/view?usp=sharing)**
+
+## 📌 Overview
 
 # Gate Survey App
 ## 📌 Overview
@@ -87,6 +89,7 @@ Only authorized users with login credentials can view the results.
 - **Multi-Platform Support**: Accessible on mobile devices and web browsers for convenience.
 - **Offline Mode**: Collect data without internet access and sync responses when back online.
 - **Secure Data Storage**: Ensures that all collected data is stored securely and is accessible only by authorized users.
+
 
 
 
