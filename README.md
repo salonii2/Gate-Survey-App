@@ -1,3 +1,6 @@
+## Click on the Link to view demo 
+https://drive.google.com/file/d/1gTCsxXLmi8uryKrpfJ8pd1iGsZxFVYul/view?usp=sharing
+
 # Gate Survey App
 ## 📌 Overview
 The Gate Survey App is designed to help event organizers, venue managers, and facility teams collect and analyze visitor feedback in real time. With its easy-to-use interface, customizable survey options, and analytics dashboard, the app enables quick decision-making to improve services and visitor experiences.
@@ -84,6 +87,7 @@ Only authorized users with login credentials can view the results.
 - **Multi-Platform Support**: Accessible on mobile devices and web browsers for convenience.
 - **Offline Mode**: Collect data without internet access and sync responses when back online.
 - **Secure Data Storage**: Ensures that all collected data is stored securely and is accessible only by authorized users.
+
 
 
 
